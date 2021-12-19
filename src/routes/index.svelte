@@ -20,4 +20,6 @@ async function getWeather() {
     <input id="location" bind:value={location} type="text" />
     <button type="submit">Check</button>
 </form>
+<p>
+Temparature: </p> temparature
 
